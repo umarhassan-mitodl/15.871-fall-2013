@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "legacy_uid": "d4db9ad4-00a2-f13c-d877-96b220a8ccc5",
+  "instructors": {
+    "content": [
+      "fa306a87-78fa-8099-4c07-475dcad8cb90",
+      "51932f69-5be9-649c-6f8d-6654d2df047a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7d1a72c4-fd00-949b-a9c1-d38212b92232",
+    "website": "15-871-introduction-to-system-dynamics-fall-2013"
+  },
+  "course_title": "Introduction to System Dynamics",
+  "course_description": "Introduction to systems thinking and system dynamics modeling applied to strategy, organizational change, and policy design. Students use simulation models, management flight simulators, and case studies to develop conceptual and modeling skills for the design and management of high-performance organizations in a dynamic world.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.871",
+  "course_image_thumbnail": {
+    "content": "62bd9880-6af3-8499-5899-35713f9631fe",
+    "website": "15-871-introduction-to-system-dynamics-fall-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Instructor Insights"
+  ],
+  "site_uid": "18ea50e8-3474-4e03-b2ae-376c4c355726",
+  "site_short_id": "15.871-fall-2013",
+  "site_url_path": "courses/15-871-introduction-to-system-dynamics-fall-2013",
+  "title": "Course Metadata"
+}
