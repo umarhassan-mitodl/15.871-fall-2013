@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information on course meeting times, prerequisites,
   course objectives and scope, course materials, modeling software, grading, peer
   evaluation, and the schedule of lecture topics and assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
