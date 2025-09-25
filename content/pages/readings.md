@@ -27,7 +27,7 @@ Introduction: Purpose and concepts of system dynamics
 
 \[BD\] Read Chapter 1.
 
-Collins, Ross D., et al. "{{% resource_link "be27feaf-d858-4fe0-abc1-8781c018a176" "Forest Fire Management to Avoid Unintended Consequences: A Case Study of Portugal using System Dynamics" %}}." _Journal of Environmental Management_ 130 (2013): 1-9.
+Collins, Ross D., et al. "[Forest Fire Management to Avoid Unintended Consequences: A Case Study of Portugal using System Dynamics](http://dx.doi.org/10.1016/j.jenvman.2013.08.033)." _Journal of Environmental Management_ 130 (2013): 1-9.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -55,7 +55,7 @@ System Dynamics Tools Part 4: Dynamics of stocks and flows; linking feedback wit
 
 \[BD\] Read Chapter 7.
 
-Jones, Andrew P., et al. "{{% resource_link "b18d8855-5340-4102-8519-5a5c7dc4d812" "Understanding Diabetes Population Dynamics Through Simulation Modeling and Experimentation" %}}." _American Journal of Public Health_ 96, no. 3 (2006): 488-94.
+Jones, Andrew P., et al. "[Understanding Diabetes Population Dynamics Through Simulation Modeling and Experimentation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470507/)." _American Journal of Public Health_ 96, no. 3 (2006): 488-94.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -75,7 +75,7 @@ System Dynamics Tools Part 6: Analyzing Systems and Creating Robust Policies
 Industry dynamics and diffusion models
 {{< tdclose >}}{{< tdopen >}}
 
-RSC case: Farr, Warren. {{% resource_link "50f35c36-0e5f-4f73-9524-f0560f249020" "\"Using System Dynamics to Create Durable Business Strategy.\" (PDF)" %}}
+RSC case: Farr, Warren. ["Using System Dynamics to Create Durable Business Strategy." (PDF)](https://proceedings.systemdynamics.org/2012/proceed/papers/P1175.pdf)
 
 \[BD\] 9.3-9.4.
 
@@ -90,13 +90,13 @@ Growth Strategies: Network externalities, complementarities, and path dependence
 {{< tdclose >}}{{< tdopen >}}
 Guest Lecture: Mark Paich _System Dynamics at General Motors and beyond_
 {{< tdclose >}}{{< tdopen >}}
-Barabba, Vince, et al. "{{% resource_link "c49b9ddf-8a7f-45a2-a931-058034bf5f89" "A Multimethod Approach for Creating New Business Models: The General Motors OnStar Project" %}}." _Interfaces_ 32, no. 1 (2002): 20-34.
+Barabba, Vince, et al. "[A Multimethod Approach for Creating New Business Models: The General Motors OnStar Project](http://dx.doi.org/10.1287/inte.32.1.20.18)." _Interfaces_ 32, no. 1 (2002): 20-34.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 Interactions of Operations, Strategy, and Human Resource Policy: The case of People Express
 {{< tdclose >}}{{< tdopen >}}
-Prepare for case discussion: Schlesinger, Leonard A., and Debra Whitestone. "{{% resource_link "01236992-627a-499e-a9e9-49296c715f68" "People Express (A)" %}}." Harvard Business School Case 483-103, April 1983. (Revised October 2000.)
+Prepare for case discussion: Schlesinger, Leonard A., and Debra Whitestone. "[People Express (A)](http://www.hbs.edu/faculty/Pages/item.aspx?num=15115)." Harvard Business School Case 483-103, April 1983. (Revised October 2000.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
