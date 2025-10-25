@@ -41,7 +41,6 @@
     "website": "15-871-introduction-to-system-dynamics-fall-2013"
   },
   "course_title": "Introduction to System Dynamics",
-  "hide_download": true,
   "course_description": "Introduction to systems thinking and system dynamics modeling applied to strategy, organizational change, and policy design. Students use simulation models, management flight simulators, and case studies to develop conceptual and modeling skills for the design and management of high-performance organizations in a dynamic world.\n",
   "department_numbers": [
     "15"
@@ -52,7 +51,6 @@
     "content": "62bd9880-6af3-8499-5899-35713f9631fe",
     "website": "15-871-introduction-to-system-dynamics-fall-2013"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Instructor Insights"
