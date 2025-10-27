@@ -52,11 +52,11 @@ Modeling Software
 
 In this course, we use modeling software. Several excellent packages for system dynamics simulation are available, including **iThink**, from High Performance Systems, **Powersim**, from Powersim Corporation, and **Vensim**, from Ventana Systems. All are highly recommended. You may wish to learn more about these packages, as all are used in the business world and expertise in them is increasingly sought by potential employers. For further information, see the following resources:
 
-*   **iThink**: See [the isee Systems web site](http://www.iseesystems.com).
-*   **Powersim**: See [the Powersim web site](http://www.powersim.com).
-*   **Vensim**: See [the Ventana Systems web site](http://www.vensim.com).
+*   **iThink**: See {{% resource_link "2bb35410-62b0-41d8-a17a-bb8f7ed5b428" "the isee Systems web site" %}}.
+*   **Powersim**: See {{% resource_link "e8057fef-60db-4433-a337-6b79657d8898" "the Powersim web site" %}}.
+*   **Vensim**: See {{% resource_link "cf57e2f7-17d8-4df4-acc7-9c7a8543ff84" "the Ventana Systems web site" %}}.
 
-**The required modeling software is VensimPLE**. In this course, we will be using the Vensim Personal Learning Edition (**VensimPLE**) by Ventana Systems. The current version is 6.1. It is free for academic use and is available for Windows and Mac. VensimPLE comes with sample models, help engine, and Adobe Acrobat format User's Guide, all available from [the Vensim web site](http://vensim.com/vensim-personal-learning-edition/).
+**The required modeling software is VensimPLE**. In this course, we will be using the Vensim Personal Learning Edition (**VensimPLE**) by Ventana Systems. The current version is 6.1. It is free for academic use and is available for Windows and Mac. VensimPLE comes with sample models, help engine, and Adobe Acrobat format User's Guide, all available from {{% resource_link "450c0ed5-2486-4395-8421-d68d73227aef" "the Vensim web site" %}}.
 
 **NOTE:** The disc that comes with the _Business Dynamics_ textbook includes a version of VensimPLE. However, the version available online is much newer and has enhanced functionality. Be sure to download the current version of VensimPLE from the website above. Vensim models on the textbook CD will work with it.
 
